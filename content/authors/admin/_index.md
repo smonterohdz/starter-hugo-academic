@@ -43,4 +43,8 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Alice
+Samuel Montero-Hernandez is a postdoctoral fellow at the University of Houston. His research is 
+focused on the design of algorithms for data analysis and causal discovery using functional near-infrared 
+spectroscopy (fNIRS) modality. He possesses comprehensive experience in a range of areas such as 
+functional and effective brain connectivity analysis, data quality assurance, and probabilistic graphical 
+models.Alice
