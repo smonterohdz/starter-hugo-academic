@@ -1,7 +1,7 @@
 ---
 title: "Samuel Montero-Hernandez "
 role: "Postdoctoral fellow at University of Houston "
-avatar_filename: pxl_20230204_224456935.portrait.jpg
+avatar_filename: ""
 bio: My research interests includes algorithms for functional near-infrared
   spectroscopy (fNIRS) data processing and brain connectivity analysis.
 interests:
