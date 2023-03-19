@@ -4,7 +4,7 @@ widget_id: my-widget-123
 headless: true
 weight: 10
 title: Homepage 2
-active: true
+active: false
 design:
   columns: "2"
   background:
